@@ -21,11 +21,11 @@
     - 뭐를 배우게 될까요
 
 
+[link keyword][id]
 
-    '''
-    public class BootSpringBootApplication {
-        public static void main(String[] args) {
-            System.out.println("Hello, World");
-        }
-    }
-    '''
+[id]: URL "Optional Title here"
+
+// code
+Link: [Google][googlelink]
+
+[googlelink]: https:google.com "Go google"
