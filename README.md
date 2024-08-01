@@ -21,10 +21,11 @@
     - 뭐를 배우게 될까요
 
 
-'''
-public class BootSpringBootApplication {
-    public static void main(String[] args) {
-        System.out.println("Hello, World");
+
+    '''
+    public class BootSpringBootApplication {
+        public static void main(String[] args) {
+            System.out.println("Hello, World");
+        }
     }
-}
-'''
+    '''
