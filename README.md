@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">Hi there 👋 I'm Namjun Kim</h1>
+<h1 align="center">I'm Nam Joon Kim</h1>
 <p align="center">풀스택과 생성형 AI 기술을 융합하여 문제를 해결하는 개발자입니다.<br/>백엔드, AI 파이프라인, 사용자 중심의 서비스를 직접 설계하고 구현합니다.</p>
 
 ---
