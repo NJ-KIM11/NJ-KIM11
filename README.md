@@ -11,15 +11,18 @@
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
 </p>
 
 ### 🖥 Backend & AI
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=OpenAI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>
 </p>
 
 ### 🧩 Database & Infra
@@ -50,19 +53,19 @@
 
 - 🎤 [다시, 안녕] 고인과의 대화를 복원하는 생성형 AI 챗봇  
   LangChain, Redis, RAG로 단기/장기 메모리 설계, EC2 배포, BertScore 기반 평가툴 제작  
-  `FastAPI`, `SpringBoot`, `TTS`, `STT`, `Claude`, `OpenAI`
+  `FastAPI`, `SpringBoot`, `TTS`, `STT`, `LangChain`
 
 - 🧗 **[CLI'MON]** 클라이밍 커뮤니티 플랫폼  
-  `SpringBoot`, `React`, `MySQL`, `Firebase`, `Figma`  
+  `SpringBoot`, `Javascript`, `MySQL`
   → 커뮤니티·크루 관리 / 게시판 기능 / 디자인 기획 및 UI 구현
 
 - 📍 [LocaT] 현지인과 여행자 일정 공유 앱  
   GPS 인증 + JWT 로그인 + Kakao API 활용 / Flutter 앱 구현  
-  `SpringBoot`, `Flutter`, `MySQL`, `OAuth`
+  `SpringBoot`, `Flutter`, `MySQL`, `OAuth`, `Firebase`
 
 - 📝 [AI가 그려주는 내 하루] 감성 일기 요약 + 이미지 생성 서비스  
   OCR 기반 문단 분할 → AI 이미지 생성 파이프라인 구축  
-  `FastAPI`, `LangChain`, `SDXL`, `CLOVA OCR`
+  `FastAPI`, `CLOVA OCR`, `Stable Diffusion`
 
 ---
 
