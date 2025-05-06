@@ -32,25 +32,44 @@
 
 ---
 
-## 🚀 Projects (Selected)
+## 🛠️ Tools
+
+<p>
+  <img src="https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flow-5531FF?style=flat"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Projects
 
 - 🎤 [다시, 안녕] 고인과의 대화를 복원하는 생성형 AI 챗봇  
   LangChain, Redis, RAG로 단기/장기 메모리 설계, EC2 배포, BertScore 기반 평가툴 제작  
   `FastAPI`, `SpringBoot`, `TTS`, `STT`, `Claude`, `OpenAI`
 
-- 📝 [AI가 그려주는 내 하루] 감성 일기 요약 + 이미지 생성 서비스  
-  OCR 기반 문단 분할 → AI 이미지 생성 파이프라인 구축  
-  `FastAPI`, `LangChain`, `SDXL`, `CLOVA OCR`
+- 🧗 **[CLI'MON]** 클라이밍 커뮤니티 플랫폼  
+  `SpringBoot`, `React`, `MySQL`, `Firebase`, `Figma`  
+  → 커뮤니티·크루 관리 / 게시판 기능 / 디자인 기획 및 UI 구현
 
 - 📍 [LocaT] 현지인과 여행자 일정 공유 앱  
   GPS 인증 + JWT 로그인 + Kakao API 활용 / Flutter 앱 구현  
   `SpringBoot`, `Flutter`, `MySQL`, `OAuth`
+
+- 📝 [AI가 그려주는 내 하루] 감성 일기 요약 + 이미지 생성 서비스  
+  OCR 기반 문단 분할 → AI 이미지 생성 파이프라인 구축  
+  `FastAPI`, `LangChain`, `SDXL`, `CLOVA OCR`
 
 ---
 
 ## 📚 Studying
 
 <p>
+  <img src="https://img.shields.io/badge/Langgraph-000000?style=flat&logo=OpenAI&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG-000000?style=flat&logo=OpenAI&logoColor=white"/>
   <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat"/>
   <img src="https://img.shields.io/badge/LLM Evaluation-000000?style=flat"/>
@@ -60,6 +79,7 @@
 
 ## 📫 Contact
 
-<a href="https://github.com/nj-kim11"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-<a href="https://velog.io/@nj-kim11"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/></a>
-<a href="mailto:thebrian11@naver.com"><img src="https://img.shields.io/badge/NaverMail-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
+<p>
+  <a href="https://www.notion.so/1-1ebdf2d041268069952ae3bedb3a863d"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/></a>
+  <a href="mailto:alwaysred1116@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
