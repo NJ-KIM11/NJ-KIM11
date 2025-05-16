@@ -51,7 +51,7 @@
 ## 🚀 Projects
 
 - 🎤 [다시, 안녕] 고인과의 대화를 복원하는 생성형 AI 챗봇  
-  LangChain, Redis, RAG로 단기/장기 메모리 설계, EC2 배포, BertScore 기반 평가툴 제작  
+  LangChain, Redis, RAG로 단기/장기 메모리 설계, BertScore 기반 평가툴 제작  
   `FastAPI`, `SpringBoot`, `TTS`, `STT`, `LangChain`
 
 - 🧗 **[CLI'MON]** 클라이밍 커뮤니티 플랫폼  
